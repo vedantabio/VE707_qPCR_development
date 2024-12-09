@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['bin\\qPCR_primer_specificity_dropout_pools\\qPCR_primer_specificity_dropout_pools.py']
+recent_files = ['bin\\10L_DS_identity_powerfecalpro\\10L_DS_identity_powerfecalpro.py', '..\\coculture_strain_assignment\\opentrons_experiment_setup\\DNA_pooling\\VE707_qPCR_43mix_standard\\VE707_qPCR_43mix_standard_flex.py', '..\\coculture_strain_assignment\\opentrons_experiment_setup\\re-array_707_qPCR_primers_flex_10_29_24.py', '..\\coculture_strain_assignment\\opentrons_experiment_setup\\re-array_707_qPCR_primers_opentrons_9_5_24.py']
 
 [main]
 version = 0.2.0
